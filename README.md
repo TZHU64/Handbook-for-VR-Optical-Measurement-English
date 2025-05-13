@@ -1,6 +1,6 @@
 I authored the book **Handbook of VR Optical Measurement**, which is structured into nine chapters. It provides comprehensive coverage of international standards, measurement equipment, measurement methodologies, and real-world case studies. The book offers a systematic explanation of how to leverage optical measurement technology for the precise evaluation of augmented reality (AR), virtual reality (VR), and mixed reality (MR) devices, as well as their components. Designed to deepen readers' understanding of XR technologies, it also aims to standardize terminology and technical knowledge, thereby supporting advancements in the industry. In addition to the physical edition, I have made the core content of the book available on GitHub.
 
-[Download PDF Here](Handbook for Optical Measurementin VR.pdf)
+[Download PDF Here](<Handbook for Optical Measurementin VR.pdf>)
 
 ---
 
