@@ -1,6 +1,6 @@
-# Handbook for VR Optical Measurement
+# Handbook for Optical Measurement in VR
 
-Handbook for VR Optical Measurement is structured into nine chapters. It provides comprehensive coverage of international standards, measurement equipment, measurement methodologies, and real-world case studies. The book offers a systematic explanation of how to leverage optical measurement technology for the precise evaluation of augmented reality (AR), virtual reality (VR), and mixed reality (MR) devices, as well as their components. Designed to deepen readers' understanding of XR technologies, it also aims to standardize terminology and technical knowledge, thereby supporting advancements in the industry. 
+Handbook for Optical Measurement in VR is structured into nine chapters. It provides comprehensive coverage of international standards, measurement equipment, measurement methodologies, and real-world case studies. The book offers a systematic explanation of how to leverage optical measurement technology for the precise evaluation of augmented reality (AR), virtual reality (VR), and mixed reality (MR) devices, as well as their components. Designed to deepen readers' understanding of XR technologies, it also aims to standardize terminology and technical knowledge, thereby supporting advancements in the industry. 
 
 [Download PDF Here](<Handbook for Optical Measurementin VR.pdf>)
 
